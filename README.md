@@ -21,11 +21,11 @@ Assignments for the Computer Graphics course @ Faculty of Automatic Control and 
   * Lab 9 [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Laborator9)
 
 ## Projects
-* **Bow and Arrow**:
+* **Bow and Arrow**
   * Own version of Bow and Arrow game. [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Tema1)
 
-* **Skyroads**:
+* **Skyroads**
   * Own version of Skyroads game. [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Tema2)
   
-* **Stylised Runner**:
+* **Stylised Runner**
   * Own stylised version of Skyroads game. [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Tema3)
