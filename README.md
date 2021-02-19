@@ -23,7 +23,7 @@ Assignments for the Computer Graphics course @ Faculty of Automatic Control and 
 ## Projects
 * **Bow and Arrow**
   * Own version of Bow and Arrow game. [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Tema1)
-  * ![Bow and Arrow 1](https://github.com/danserboi/Computer-Graphics/blob/main/Frames%20from%20games/Bow%20and%20Arrow%201.png)
+  ![Bow and Arrow 1](https://github.com/danserboi/Computer-Graphics/blob/main/Frames%20from%20games/Bow%20and%20Arrow%201.png)
 
 * **Skyroads**
   * Own version of Skyroads game. [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Tema2)
