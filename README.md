@@ -2,7 +2,7 @@
 Assignments for the Computer Graphics course @ Faculty of Automatic Control and Computers, Politehnica University of Bucharest.
 
 ## Laboratories
-  * Lab1 [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Laborator1)
+  * Lab 1 [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Laborator1)
    
   * Lab 2 [source](https://github.com/danserboi/Computer-Graphics/tree/main/Laboratoare/Laborator2)
   
